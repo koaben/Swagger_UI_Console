@@ -1,2 +1,4 @@
-# Swagger_UI_Console
-Swagger_UI_Console
+# chrome-swagger-ui
+
+Swagger UI Console Chrome Extension
+
